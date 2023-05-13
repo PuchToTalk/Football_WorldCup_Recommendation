@@ -8,6 +8,8 @@ The goal of the 'Big Data project' is to create a simple end-to-end data archite
 In this project, we are free to decide which data you would like to fetch and determine the final output that will create value from your data inputs.
 The only necessary thing to respect is a Datalake architecture, which will permit us to structure the data correctly, to have a clean data pipeline and shareable data.
 
+<img width="595" alt="Capture d’écran 2023-05-13 à 17 25 02" src="https://github.com/PuchToTalk/Football_market-value/assets/90144938/29b6825d-076f-4ec0-8535-9cee6f77621a">
+
 
 ## FR 󠁧󠁢🇫🇷
 
