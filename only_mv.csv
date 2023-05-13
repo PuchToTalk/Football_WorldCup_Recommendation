@@ -1,0 +1,518 @@
+,Player,Market value,Nation,Pos
+0,Kylian Mbappé,€180.00m,FRA,FW
+1,Raheem Sterling,€128.00m,ENG,FW
+2,Neymar,€128.00m,BRA,MF
+3,Sadio Mané,€120.00m,SEN,FW
+4,Mohamed Salah,€120.00m,EGY,FW
+5,Harry Kane,€120.00m,ENG,FW
+6,Kevin De Bruyne,€120.00m,BEL,MF
+7,Jadon Sancho,€117.00m,ENG,MF
+8,Lionel Messi,€112.00m,ARG,FW
+9,Trent Alexander-Arnold,€99.00m,ENG,DF
+10,Antoine Griezmann,€96.00m,FRA,FW
+11,João Félix,€81.00m,POR,MF
+12,Kai Havertz,€81.00m,GER,MF
+13,Bernardo Silva,€80.00m,POR,MF
+14,N'Golo Kanté,€80.00m,FRA,MF
+15,Leroy Sané,€80.00m,,
+16,Virgil van Dijk,€80.00m,NED,DF
+17,Paul Pogba,€80.00m,FRA,MF
+18,Jan Oblak,€80.00m,,
+19,Eden Hazard,€80.00m,BEL,MF
+20,Joshua Kimmich,€75.00m,GER,MF
+21,Erling Haaland,€72.00m,,
+22,Frenkie de Jong,€72.00m,NED,MF
+23,Paulo Dybala,€72.00m,ARG,MF
+24,Serge Gnabry,€72.00m,GER,MF
+25,Saúl Ñíguez,€72.00m,ESP,MF
+26,Roberto Firmino,€72.00m,BRA,FW
+27,Alisson,€72.00m,,
+28,Marc-André ter Stegen,€72.00m,,
+29,Romelu Lukaku,€68.00m,BEL,FW
+30,Christian Eriksen,€68.00m,DEN,MF
+31,Christian Eriksen,€68.00m,DEN,MF
+32,Matthijs de Ligt,€67.50m,,
+33,David Alaba,€65.00m,AUT,DF
+34,Lautaro Martínez,€64.00m,ARG,FW
+35,Rodri,€64.00m,ESP,MF
+36,Sergej Milinkovic-Savic,€64.00m,,
+37,Marcus Rashford,€64.00m,ENG,FW
+38,Andrew Robertson,€64.00m,SCO,DF
+39,Dele Alli,€64.00m,ENG,MF
+40,Timo Werner,€64.00m,GER,FW
+41,Raphaël Varane,€64.00m,FRA,DF
+42,Heung-min Son,€64.00m,,
+43,Casemiro,€64.00m,BRA,MF
+44,Alphonso Davies,€60.00m,CAN,DF
+45,Aymeric Laporte,€60.00m,,
+46,Marco Verratti,€60.00m,,
+47,Mauro Icardi,€60.00m,ARG,FW
+48,Cristiano Ronaldo,€60.00m,POR,FW
+49,Gabriel Jesus,€56.00m,BRA,FW
+50,Arthur,€56.00m,,
+51,Ousmane Dembélé,€56.00m,FRA,FW
+52,Lucas Hernández,€56.00m,FRA,DF
+53,José Giménez,€56.00m,,
+54,Ederson,€56.00m,,
+55,Fabinho,€56.00m,BRA,MF
+56,Harry Maguire,€56.00m,ENG,DF
+57,Kalidou Koulibaly,€56.00m,SEN,DF
+58,Philippe Coutinho,€56.00m,BRA,MF
+59,Pierre-Emerick Aubameyang,€56.00m,GAB,FW
+60,Robert Lewandowski,€56.00m,POL,FW
+61,Achraf Hakimi,€54.00m,MAR,WB
+62,Federico Valverde,€54.00m,URU,MF
+63,Christian Pulisic,€54.00m,USA,FW
+64,Tanguy Ndombélé,€52.00m,,
+65,Richarlison,€52.00m,BRA,FW
+66,Nicolas Pépé,€52.00m,CIV,FW
+67,Marquinhos,€52.00m,BRA,MF
+68,Jorginho,€52.00m,ITA,MF
+69,Miralem Pjanic,€52.00m,,
+70,Sergio Agüero,€52.00m,ARG,FW
+71,Leon Goretzka,€50.00m,GER,MF
+72,Houssem Aouar,€49.50m,FRA,MF
+73,Declan Rice,€49.50m,ENG,MF
+74,Gianluigi Donnarumma,€49.50m,,
+75,Mikel Oyarzabal,€48.00m,ESP,MF
+76,Fabián Ruiz,€48.00m,,
+77,Davinson Sánchez,€48.00m,COL,DF
+78,Federico Chiesa,€48.00m,ITA,FW
+79,James Maddison,€48.00m,ENG,MF
+80,Bruno Fernandes,€48.00m,POR,MF
+81,Milan Skriniar,€48.00m,,
+82,Clément Lenglet,€48.00m,FRA,DF
+83,Anthony Martial,€48.00m,FRA,FW
+84,Riyad Mahrez,€48.00m,ALG,FW
+85,Niklas Süle,€48.00m,GER,DF
+86,Marcelo Brozovic,€48.00m,,
+87,Lorenzo Insigne,€48.00m,ITA,MF
+88,Stefan de Vrij,€48.00m,NED,DF
+89,Thibaut Courtois,€48.00m,,
+90,Alexandre Lacazette,€48.00m,FRA,FW
+91,Koke,€48.00m,ESP,MF
+92,Thiago,€48.00m,,
+93,Toni Kroos,€48.00m,GER,MF
+94,Rodrygo,€45.00m,BRA,FW
+95,Ferran Torres,€45.00m,,
+96,Nicolo Zaniolo,€45.00m,ITA,MF
+97,Vinicius Junior,€45.00m,,
+98,Dayot Upamecano,€45.00m,FRA,DF
+99,Martin Ödegaard,€45.00m,,
+100,Donny van de Beek,€44.00m,,
+101,Youri Tielemans,€44.00m,BEL,MF
+102,Youri Tielemans,€44.00m,BEL,MF
+103,Memphis Depay,€44.00m,NED,MF
+104,Wilfried Zaha,€44.00m,CIV,MF
+105,Luis Alberto,€44.00m,ESP,MF
+106,Mattéo Guendouzi,€40.50m,FRA,MF
+107,Ibrahima Konaté,€40.50m,,
+108,Mason Mount,€40.50m,ENG,MF
+109,Carlos Soler,€40.00m,ESP,MF
+110,Rodrigo Bentancur,€40.00m,URU,MF
+111,Benjamin Pavard,€40.00m,FRA,DF
+112,Giovani Lo Celso,€40.00m,ARG,MF
+113,Giovani Lo Celso,€40.00m,ARG,MF
+114,Denis Zakaria,€40.00m,SUI,MF
+115,Tammy Abraham,€40.00m,ENG,FW
+116,Ben Chilwell,€40.00m,ENG,DF
+117,Iñaki Williams,€40.00m,ESP,FW
+118,Kingsley Coman,€40.00m,FRA,MF
+119,Thomas,€40.00m,,
+120,Moussa Dembélé,€40.00m,FRA,FW
+121,Rúben Neves,€40.00m,POR,MF
+122,José Gayà,€40.00m,,
+123,Hakim Ziyech,€40.00m,,
+124,Raúl Jiménez,€40.00m,MEX,FW
+125,Julian Brandt,€40.00m,GER,MF
+126,Wissam Ben Yedder,€40.00m,FRA,FW
+127,Daniel Carvajal,€40.00m,,
+128,Rodrigo,€40.00m,ESP,FW
+129,Ciro Immobile,€40.00m,ITA,FW
+130,Kyle Walker,€40.00m,ENG,DF
+131,Antonio Rüdiger,€40.00m,,
+132,Sergi Roberto,€40.00m,ESP,DF
+133,Isco,€40.00m,ESP,MF
+134,Alex Sandro,€40.00m,BRA,DF
+135,Jordi Alba,€40.00m,ESP,DF
+136,David de Gea,€40.00m,,
+137,Ilkay Gündogan,€40.00m,,
+138,Georginio Wijnaldum,€40.00m,NED,MF
+139,Eduardo Camavinga,€37.50m,FRA,MF
+140,David Neres,€36.00m,,
+141,Ansu Fati,€36.00m,ESP,WB
+142,Éder Militão,€36.00m,BRA,DF
+143,Jonathan Ikoné,€36.00m,,
+144,Lucas Torreira,€36.00m,URU,MF
+145,Wilfred Ndidi,€36.00m,NGA,MF
+146,Nicolò Barella,€36.00m,ITA,MF
+147,André Onana,€36.00m,,
+148,Alessio Romagnoli,€36.00m,ITA,DF
+149,John Stones,€36.00m,ENG,DF
+150,João Cancelo,€36.00m,POR,DF
+151,Sébastien Haller,€36.00m,FRA,FW
+152,Álvaro Morata,€36.00m,ESP,FW
+153,Álvaro Morata,€36.00m,ESP,FW
+154,Duván Zapata,€36.00m,COL,FW
+155,Mateo Kovacic,€36.00m,,
+156,Lukas Klostermann,€35.00m,GER,DF
+157,Raphaël Guerreiro,€35.00m,POR,DF
+158,Marcel Sabitzer,€35.00m,AUT,MF
+159,Naby Keïta,€33.50m,GUI,MF
+160,Joe Gomez,€33.50m,,
+161,Christopher Nkunku,€33.00m,FRA,MF
+162,Aaron Wan-Bissaka,€32.00m,ENG,DF
+163,Maxi Gómez,€32.00m,URU,FW
+164,Moussa Diaby,€32.00m,FRA,MF
+165,Theo Hernández,€32.00m,FRA,DF
+166,Diego Carlos,€32.00m,BRA,DF
+167,Caglar Söyüncü,€32.00m,,
+168,Dani Ceballos,€32.00m,ESP,MF
+169,Marcus Thuram,€32.00m,FRA,FW
+170,Marco Asensio,€32.00m,ESP,FW
+171,Ferland Mendy,€32.00m,FRA,DF
+172,Lorenzo Pellegrini,€32.00m,ITA,MF
+173,Ángel Correa,€32.00m,ARG,MF
+174,Luka Jovic,€32.00m,,
+175,Alex Telles,€32.00m,,
+176,Harry Winks,€32.00m,ENG,MF
+177,Nélson Semedo,€32.00m,,
+178,Ricardo Pereira,€32.00m,POR,DF
+179,Nabil Fekir,€32.00m,FRA,MF
+180,Kepa,€32.00m,,
+181,Arkadiusz Milik,€32.00m,POL,FW
+182,Héctor Bellerín,€32.00m,ESP,DF
+183,Lucas Ocampos,€32.00m,ARG,FW
+184,Florian Thauvin,€32.00m,,
+185,Piotr Zielinski,€32.00m,,
+186,Andrea Belotti,€32.00m,ITA,FW
+187,Filip Kostic,€32.00m,,
+188,Felipe Anderson,€32.00m,BRA,MF
+189,Samuel Umtiti,€32.00m,,
+190,Allan,€32.00m,BRA,MF
+191,Allan,€32.00m,BRA,MF
+192,Konstantinos Manolas,€32.00m,,
+193,Thorgan Hazard,€32.00m,BEL,MF
+194,James Rodríguez,€32.00m,COL,MF
+195,Joel Matip,€32.00m,,
+196,Lucas Moura,€32.00m,BRA,MF
+197,Ángel Di María,€32.00m,ARG,MF
+198,Wojciech Szczesny,€32.00m,,
+199,Gareth Bale,€32.00m,WAL,MF
+200,Karim Benzema,€32.00m,FRA,FW
+201,Renan Lodi,€31.50m,BRA,DF
+202,Dejan Kulusevski,€31.50m,,
+203,Sandro Tonali,€31.50m,ITA,MF
+204,Ryan Sessegnon,€31.50m,,
+205,Callum Hudson-Odoi,€31.50m,ENG,FW
+206,Dan-Axel Zagadou,€31.50m,FRA,DF
+207,Alessandro Bastoni,€31.50m,ITA,DF
+208,Dani Olmo,€31.50m,ESP,MF
+209,Malcom,€30.50m,,
+210,Rúben Dias,€30.50m,,
+211,Joaquín Correa,€30.50m,ARG,MF
+212,Jack Grealish,€30.50m,ENG,MF
+213,Andrej Kramaric,€30.50m,,
+214,Wout Weghorst,€30.00m,NED,FW
+215,Alassane Plea,€30.00m,,
+216,Thomas Müller,€30.00m,GER,MF
+217,Leon Bailey,€29.50m,JAM,MF
+218,Mason Greenwood,€29.00m,ENG,MF
+219,Ozan Kabak,€29.00m,TUR,DF
+220,Bruno Guimarães,€28.00m,,
+221,Diogo Jota,€28.00m,POR,MF
+222,Éverton,€28.00m,,
+223,Hirving Lozano,€28.00m,MEX,MF
+224,Steven Bergwijn,€28.00m,NED,FW
+225,Presnel Kimpembe,€28.00m,FRA,DF
+226,Issa Diop,€28.00m,FRA,DF
+227,Alex Meret,€28.00m,,
+228,Abdou Diallo,€28.00m,FRA,DF
+229,Thilo Kehrer,€28.00m,GER,DF
+230,Konrad Laimer,€28.00m,AUT,MF
+231,Federico Bernardeschi,€28.00m,ITA,MF
+232,Alejandro Grimaldo,€28.00m,,
+233,Nico Elvedi,€28.00m,SUI,DF
+234,Victor Lindelöf,€28.00m,SWE,DF
+235,Nathan Aké,€28.00m,NED,DF
+236,Kurt Zouma,€28.00m,FRA,DF
+237,Benjamin Mendy,€28.00m,FRA,DF
+238,Alex Oxlade-Chamberlain,€28.00m,ENG,MF
+239,Nicolás Tagliafico,€28.00m,,
+240,Jordan Pickford,€28.00m,,
+241,Paco Alcácer,€28.00m,ESP,FW
+242,Paco Alcácer,€28.00m,ESP,FW
+243,Lucas Digne,€28.00m,FRA,DF
+244,Matthias Ginter,€28.00m,GER,DF
+245,Kieran Trippier,€28.00m,,
+246,Kevin Volland,€28.00m,GER,FW
+247,Pablo Sarabia,€28.00m,ESP,MF
+248,Bernd Leno,€28.00m,,
+249,Sergio Busquets,€28.00m,ESP,MF
+250,Jordan Henderson,€28.00m,ENG,MF
+251,Dani Parejo,€28.00m,,
+252,Aaron Ramsey,€28.00m,WAL,MF
+253,Luis Suárez,€28.00m,URU,FW
+254,Phil Foden,€27.00m,ENG,MF
+255,Victor Osimhen,€27.00m,NGA,FW
+256,Samu Chukwueze,€27.00m,,
+257,Boubacar Kamara,€27.00m,FRA,DF
+258,Merih Demiral,€27.00m,TUR,DF
+259,Alex Iwobi,€25.50m,NGA,MF
+260,Adama Traoré,€25.50m,ESP,MF
+261,Adama Traoré,€25.50m,MLI,MF
+262,Corentin Tolisso,€25.50m,FRA,MF
+263,Adrien Rabiot,€25.50m,FRA,MF
+264,Tiemoué Bakayoko,€25.50m,FRA,MF
+265,Iñigo Martínez,€25.50m,ESP,DF
+266,Felipe,€25.50m,BRA,DF
+267,Stefan Savic,€25.50m,,
+268,Gonzalo Higuaín,€25.50m,ARG,FW
+269,Gonzalo Higuaín,€25.50m,ARG,FW
+270,Gabriel Martinelli,€25.00m,,
+271,Moise Kean,€25.00m,ITA,MF
+272,Donyell Malen,€25.00m,,
+273,Patrik Schick,€25.00m,CZE,FW
+274,Marco Reus,€25.00m,GER,MF
+275,Ismaïla Sarr,€24.50m,,
+276,Boubakary Soumaré,€24.50m,,
+277,Nikola Milenkovic,€24.00m,,
+278,Wesley,€24.00m,,
+279,Amine Harit,€24.00m,MAR,MF
+280,Igor Zubeldia,€24.00m,,
+281,Cengiz Ünder,€24.00m,TUR,FW
+282,Mikel Merino,€24.00m,ESP,MF
+283,Dominic Calvert-Lewin,€24.00m,ENG,FW
+284,David Brooks,€24.00m,,
+285,Yeray Álvarez,€24.00m,ESP,DF
+286,Ayoze Pérez,€24.00m,ESP,MF
+287,Rafa Silva,€24.00m,,
+288,Djené,€24.00m,TOG,DF
+289,Stefano Sensi,€24.00m,ITA,MF
+290,Thomas Lemar,€24.00m,FRA,MF
+291,Oleksandr Zinchenko,€24.00m,UKR,DF
+292,Ruben Loftus-Cheek,€24.00m,,
+293,André Silva,€24.00m,POR,FW
+294,Andreas Christensen,€24.00m,DEN,DF
+295,Jonathan Tah,€24.00m,GER,DF
+296,Ante Rebic,€24.00m,,
+297,Emerson,€24.00m,BRA,DF
+298,Yussuf Poulsen,€24.00m,DEN,FW
+299,Danilo Pereira,€24.00m,,
+300,Idrissa Gueye,€24.00m,,
+301,Kerem Demirbay,€24.00m,GER,MF
+302,Callum Wilson,€24.00m,ENG,FW
+303,Willian José,€24.00m,BRA,FW
+304,Emre Can,€24.00m,GER,MF
+305,Emre Can,€24.00m,GER,MF
+306,Granit Xhaka,€24.00m,SUI,MF
+307,Mário Fernandes,€24.00m,,
+308,Thomas Meunier,€24.00m,BEL,DF
+309,Julian Draxler,€24.00m,GER,MF
+310,Douglas Costa,€24.00m,BRA,MF
+311,César Azpilicueta,€24.00m,ESP,DF
+312,Toby Alderweireld,€24.00m,BEL,DF
+313,Mats Hummels,€24.00m,GER,DF
+314,Florian Neuhaus,€23.00m,GER,MF
+315,Reinier,€22.50m,,
+316,Gabriel Veron,€22.50m,,
+317,Jonathan David,€22.50m,,
+318,William Saliba,€22.50m,,
+319,Reece James,€22.50m,ENG,DF
+320,Lucas Paquetá,€22.50m,BRA,MF
+321,Jules Koundé,€22.50m,FRA,DF
+322,Marash Kumbulla,€22.50m,ALB,DF
+323,Evan N'Dicka,€22.50m,,
+324,Alexander Isak,€22.50m,SWE,FW
+325,Justin Kluivert,€22.50m,NED,FW
+326,Jeff Reine-Adélaïde,€22.50m,FRA,MF
+327,Jeff Reine-Adélaïde,€22.50m,FRA,MF
+328,Daniel James,€22.50m,WAL,FW
+329,Scott McTominay,€22.50m,SCO,MF
+330,Gianluca Mancini,€22.50m,ITA,DF
+331,Tyrone Mings,€22.50m,ENG,DF
+332,Gonçalo Guedes,€22.50m,POR,MF
+333,André Gomes,€22.50m,,
+334,Jean-Philippe Gbamin,€22.50m,,
+335,Morgan Sanson,€22.50m,FRA,MF
+336,Leander Dendoncker,€22.50m,BEL,MF
+337,Matteo Politano,€22.50m,ITA,FW
+338,Matteo Politano,€22.50m,ITA,FW
+339,Yannick Carrasco,€22.50m,BEL,MF
+340,Geoffrey Kondogbia,€22.50m,CTA,MF
+341,Emil Forsberg,€22.50m,SWE,MF
+342,Gylfi Sigurdsson,€22.50m,,
+343,Willian,€22.50m,BRA,FW
+344,Edmond Tapsoba,€22.00m,,
+345,Matheus Cunha,€22.00m,BRA,MF
+346,Matheus Cunha,€22.00m,BRA,MF
+347,Milot Rashica,€22.00m,KVX,FW
+348,Krzysztof Piatek,€21.50m,,
+349,Ross Barkley,€21.50m,ENG,MF
+350,Pizzi,€21.50m,,
+351,Axel Witsel,€21.50m,BEL,MF
+352,Nahitan Nández,€21.00m,URU,MF
+353,Mohamed Ihattaren,€20.00m,,
+354,Lisandro Martínez,€20.00m,,
+355,Max Aarons,€20.00m,ENG,DF
+356,Bukayo Saka,€20.00m,ENG,WB
+357,Youcef Atal,€20.00m,,
+358,Júnior Firpo,€20.00m,,
+359,Riccardo Orsolini,€20.00m,ITA,FW
+360,Rafael Leão,€20.00m,POR,FW
+361,André Zambo Anguissa,€20.00m,,
+362,Nordi Mukiele,€20.00m,FRA,DF
+363,Joelinton,€20.00m,BRA,FW
+364,Sander Berge,€20.00m,NOR,MF
+365,Weston McKennie,€20.00m,USA,MF
+366,Todd Cantwell,€20.00m,ENG,MF
+367,Gaetano Castrovilli,€20.00m,ITA,MF
+368,Kieran Tierney,€20.00m,,
+369,Franck Kessié,€20.00m,CIV,MF
+370,Mauro Arambarri,€20.00m,URU,MF
+371,Yerry Mina,€20.00m,COL,DF
+372,Manuel Akanji,€20.00m,SUI,DF
+373,Sergio Reguilón,€20.00m,ESP,DF
+374,Mario Hermoso,€20.00m,ESP,DF
+375,Angeliño,€20.00m,ESP,DF
+376,Nemanja Maksimovic,€20.00m,,
+377,Robin Gosens,€20.00m,GER,DF
+378,Allan Saint-Maximin,€20.00m,FRA,MF
+379,Aleksandr Golovin,€20.00m,RUS,MF
+380,Jefferson Lerma,€20.00m,COL,MF
+381,Suat Serdar,€20.00m,GER,MF
+382,Gelson Martins,€20.00m,POR,WB
+383,Gelson Martins,€20.00m,POR,WB
+384,Rodrigo de Paul,€20.00m,,
+385,Diego Llorente,€20.00m,ESP,DF
+386,Duje Caleta-Car,€20.00m,,
+387,Thomas Strakosha,€20.00m,,
+388,Bryan Cristante,€20.00m,ITA,MF
+389,Florian Grillitsch,€20.00m,AUT,MF
+390,Eric Dier,€20.00m,ENG,MF
+391,James Tarkowski,€20.00m,ENG,DF
+392,Leandro Paredes,€20.00m,ARG,MF
+393,Jordan Veretout,€20.00m,FRA,MF
+394,Remo Freuler,€20.00m,SUI,MF
+395,Gerard Deulofeu,€20.00m,ESP,FW
+396,Abdoulaye Doucouré,€20.00m,FRA,MF
+397,Jesús Corona,€20.00m,,
+398,Michael Keane,€20.00m,,
+399,Marcos Alonso,€20.00m,ESP,DF
+400,Luka Milivojevic,€20.00m,,
+401,Marcel Halstenberg,€20.00m,GER,DF
+402,Sergio Canales,€20.00m,ESP,MF
+403,Dries Mertens,€20.00m,BEL,FW
+404,Henrikh Mkhitaryan,€20.00m,ARM,MF
+405,Aleksandar Mitrovic,€20.00m,,
+406,Edinson Cavani,€20.00m,URU,FW
+407,Moussa Sissoko,€20.00m,FRA,MF
+408,Leonardo Bonucci,€20.00m,ITA,DF
+409,Dusan Tadic,€20.00m,,
+410,Ivan Rakitic,€20.00m,,
+411,Gerard Piqué,€20.00m,ESP,DF
+412,Daley Blind,€20.00m,,
+413,Krépin Diatta,€19.00m,,
+414,Dodi Lukebakio,€19.00m,COD,MF
+415,Pau López,€19.00m,,
+416,Moussa Marega,€19.00m,,
+417,Domenico Berardi,€19.00m,ITA,FW
+418,Marten de Roon,€19.00m,NED,MF
+419,Dennis Praet,€19.00m,BEL,MF
+420,Oscar,€19.00m,,
+421,Francis Coquelin,€19.00m,FRA,MF
+422,Amadou Diawara,€18.50m,GUI,MF
+423,Gabriel Barbosa,€18.50m,,
+424,Julian Weigl,€18.50m,GER,MF
+425,Matías Vecino,€18.50m,URU,MF
+426,Paulinho,€18.50m,BRA,MF
+427,João Pedro,€18.00m,BRA,MF
+428,Rayan Cherki,€18.00m,FRA,MF
+429,Antony,€18.00m,,
+430,Dwight McNeil,€18.00m,ENG,MF
+431,Thiago Almada,€18.00m,,
+432,Emerson,€18.00m,BRA,DF
+433,Benoît Badiashile,€18.00m,,
+434,Douglas Luiz,€18.00m,BRA,MF
+435,Myron Boadu,€18.00m,,
+436,Calvin Stengs,€18.00m,,
+437,Exequiel Palacios,€18.00m,,
+438,Sergiño Dest,€18.00m,,
+439,Florentino,€18.00m,,
+440,Diogo Dalot,€18.00m,,
+441,Marc Cucurella,€18.00m,ESP,MF
+442,Carles Aleñá,€18.00m,ESP,MF
+443,Carles Aleñá,€18.00m,ESP,MF
+444,Matheus Henrique,€17.50m,,
+445,Gabriel Magalhães,€17.50m,,
+446,Jean-Philippe Mateta,€17.50m,FRA,FW
+447,Harvey Barnes,€17.50m,ENG,MF
+448,Ismaël Bennacer,€17.50m,,
+449,Sean Longstaff,€17.50m,ENG,MF
+450,Mouctar Diakhaby,€17.50m,,
+451,Christian Kouamé,€17.50m,CIV,FW
+452,Nikola Vlasic,€17.50m,,
+453,Eric Bailly,€17.50m,,
+454,Harry Wilson,€17.50m,WAL,MF
+455,Neal Maupay,€17.50m,FRA,FW
+456,Ben Davies,€17.50m,,
+457,Fred,€17.50m,BRA,MF
+458,Luke Shaw,€17.50m,ENG,DF
+459,Mike Maignan,€17.50m,,
+460,Quincy Promes,€17.50m,,
+461,Michy Batshuayi,€17.50m,BEL,FW
+462,Michy Batshuayi,€17.50m,BEL,FW
+463,Gabriel Paulista,€17.50m,BRA,DF
+464,Ryan Fraser,€17.50m,SCO,MF
+465,Jesse Lingard,€17.50m,ENG,MF
+466,Danny Ings,€17.50m,ENG,FW
+467,Suso,€17.50m,ESP,MF
+468,Suso,€17.50m,ESP,MF
+469,Marc Bartra,€17.50m,ESP,DF
+470,Thomas Delaney,€17.50m,,
+471,Josip Ilicic,€17.50m,,
+472,Anthony Lopes,€17.50m,,
+473,Kevin Kampl,€17.50m,SVN,MF
+474,Ivan Perisic,€17.50m,,
+475,Mesut Özil,€17.50m,GER,MF
+476,Robin Koch,€17.00m,GER,DF
+477,Xaver Schlager,€17.00m,AUT,MF
+478,Maximilian Arnold,€17.00m,GER,MF
+479,Carlos Vinícius,€16.00m,,
+480,Colin Dagba,€16.00m,,
+481,Luiz Felipe,€16.00m,BRA,DF
+482,Trincão,€16.00m,,
+483,Raphinha,€16.00m,,
+484,Pau Torres,€16.00m,ESP,DF
+485,Pablo Fornals,€16.00m,ESP,MF
+486,Dusan Vlahovic,€16.00m,,
+487,Loren Morón,€16.00m,ESP,FW
+488,Lucas Tousart,€16.00m,FRA,MF
+489,Malang Sarr,€16.00m,FRA,DF
+490,Joe Willock,€16.00m,ENG,MF
+491,Unai Núñez,€16.00m,ESP,DF
+492,Marc Roca,€16.00m,ESP,MF
+493,Valentin Rongier,€16.00m,FRA,MF
+494,Valentin Rongier,€16.00m,FRA,MF
+495,Jarrod Bowen,€16.00m,ENG,MF
+496,Tom Davies,€16.00m,ENG,MF
+497,Fikayo Tomori,€16.00m,ENG,DF
+498,Jonathan Bamba,€16.00m,FRA,MF
+499,Kasper Dolberg,€16.00m,DEN,FW
+500,Marcos Llorente,€16.00m,ESP,MF
+501,Álvaro Odriozola,€16.00m,,
+502,Miguel Almirón,€16.00m,PAR,MF
+503,Viktor Tsygankov,€16.00m,,
+504,Unai Simón,€16.00m,,
+505,Timothy Castagne,€16.00m,BEL,DF
+506,Joachim Andersen,€16.00m,DEN,DF
+507,Talisca,€16.00m,,
+508,Renato Sanches,€16.00m,POR,MF
+509,Wilmar Barrios,€16.00m,,
+510,Zeki Celik,€16.00m,,
+511,Lewis Cook,€16.00m,ENG,MF
+512,Keita Baldé,€16.00m,SEN,MF
+513,Breel Embolo,€16.00m,SUI,MF
+514,Nadiem Amiri,€16.00m,GER,MF
+515,Lucas Vázquez,€16.00m,ESP,MF
+516,Jeremie Boga,€16.00m,CIV,FW
