@@ -13,6 +13,10 @@ The only necessary thing to respect is a Datalake architecture, which will permi
 
 <img width="595" alt="Capture d’écran 2023-05-13 à 17 25 02" src="https://github.com/PuchToTalk/Football_market-value/assets/90144938/29b6825d-076f-4ec0-8535-9cee6f77621a">
 
+Our architecture is the following one :
+
+<img width="770" alt="Capture d’écran 2023-06-11 à 00 40 12" src="https://github.com/PuchToTalk/Football_market-value/assets/90144938/b16441d0-600f-4ade-ac0b-bc5dc4c5488f">
+
 
 ## FR 󠁧󠁢🇫🇷
 
