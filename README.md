@@ -27,3 +27,12 @@ L'objectif du "projet Big Data" est de créer une architecture de données simpl
 Dans ce projet, nous sommes libres de décider quelles données nous souhaitons récupérer et de déterminer le résultat final qui créera de la valeur à partir de nos données.
 La seule chose à respecter est une architecture Datalake, qui nous permettra de structurer les données correctement, d'avoir un pipeline de données propre et des données partageables.
 
+
+## Visualisation du tableau de bord
+<img width="1436" alt="Capture d’écran 2023-11-14 à 11 23 50" src="https://github.com/PuchToTalk/Football_WorldCup_Recommendation/assets/90144938/6b2fd7dd-98dc-4fb9-af39-a118b18fdd0b">
+<img width="1435" alt="Capture d’écran 2023-11-14 à 11 24 43" src="https://github.com/PuchToTalk/Football_WorldCup_Recommendation/assets/90144938/2c90481f-d7ee-4afa-b4b2-7414d37eb84d">
+
+
+## Video
+
+https://drive.google.com/file/d/1viebTIbUkLalL1cRtZMPQ3DUlgHWUcfx/view
