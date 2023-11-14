@@ -29,7 +29,16 @@ Dans ce projet, nous sommes libres de décider quelles données nous souhaitons 
 La seule chose à respecter est une architecture Datalake, qui nous permettra de structurer les données correctement, d'avoir un pipeline de données propre et des données partageables.
 
 
+
+
+
+
+
 ---------
+
+
+
+
 
 
 
